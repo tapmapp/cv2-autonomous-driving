@@ -1,0 +1,4 @@
+node_modules/
+dist/
+data/test.mp4
+data/train.mp4
